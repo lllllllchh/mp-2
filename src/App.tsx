@@ -1,6 +1,6 @@
 import Cocktail from "./components/Cocktail.tsx"
 import {useEffect,useState} from "react";
-import {CocktailType} from "./Types.ts";
+import {CocktailType} from "./interfaces/Types.ts";
 import styled from "styled-components";
 
 const ParentDiv = styled.div`

@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import {CocktailType} from "../Types.ts"
+import {CocktailType} from "../interfaces/Types.ts"
 
 const AllDiv = styled.div`
     display: flex;
